@@ -75,6 +75,7 @@
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
 - [Screenpipe](https://screenpipe.com) - Local screen and audio recording with Whisper transcription. (Source-available)
+- [Clips Kitty](https://github.com/ColinGPT9/clips-studio) - Windows app that transcribes long videos and streams with Whisper and cuts them into captioned vertical clips. (FOSS · Electron)
 
 ## Web apps
 
